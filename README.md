@@ -32,3 +32,7 @@ Built-in test scan (menu option 6), plotted with gnuplot: light-blue points are 
 ## Notes
 
 No API keys, tokens or credentials are used or stored in this repository.
+
+## License
+
+Free for personal, educational and research use. **Commercial use (selling, publishing the app in a store, or using it in a paid product) is not allowed without written permission.** See `LICENSE` (PolyForm Noncommercial 1.0.0).
